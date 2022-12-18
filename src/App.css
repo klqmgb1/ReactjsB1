@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.selectvitri{
+  transform: translateY(-75%);
+  height: 30%;
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+}
+.margin-cai{
+  margin-left: auto;
+}
